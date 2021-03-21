@@ -23,6 +23,7 @@ public class Main
         */
 
         String myText = "What up, dawg?";
+        System.out.println(myText);
         System.out.println("Index of \"d\": " + myText.indexOf("d"));
         
         int max = Math.max(x,y);
