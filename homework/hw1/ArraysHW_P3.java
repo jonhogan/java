@@ -1,3 +1,5 @@
+package java.homework.hw1;
+
 /**
 *   Author      Jonathan Hogan
 *   Class       Dr.Das - CMPS 4143 Contemporary Programming Languages
